@@ -1,3 +1,4 @@
+
 # Hello, I'm Glenn Raya
 
 <div align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=0366D6&center=false&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Laravel+%2B+React+%2B+Vue+Enthusiast;UI%2FUX+Designer;Code+Craftsman" alt="Typing SVG" /> </div> 
@@ -33,11 +34,11 @@ Building elegant web solutions with a passion for clean code and beautiful UI. I
 ## 🎥 Latest YouTube Videos
 
 
--   [How I Built a Real-Time Dashboard with Laravel and Vue.js](https://youtube.com/...)
--   [Creating Beautiful UI Animations with React](https://youtube.com/...)
--   [Laravel Tips and Tricks You Should Know](https://youtube.com/...)
+-   [Achieve Flexible, Robust Code: A Practical Look at SOLID Principles — with Laravel Examples](https://youtu.be/hZVda5ezoA4)
+-   [Lightning-Fast Laravel Search with Meilisearch: Build a Google-like Search Engine!](https://youtu.be/FY_x9_eX1AQ)
+-   [Effortless Continuous Deployment for Laravel with GitHub Actions](https://youtu.be/C9_O9dn7SzY)
 
-▶️ [More Videos...](https://youtube.com/@yourchannel)
+▶️ [More Videos...](https://youtube.com/@glennraya)
 
 ## 📊 GitHub Stats
 
