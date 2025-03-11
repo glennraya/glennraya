@@ -1,6 +1,6 @@
 # Hello, I'm Glenn Raya
 
-<div align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Laravel+%2B+React+%2B+Vue+Enthusiast;UI%2FUX+Designer;Code+Craftsman" alt="Typing SVG" /> </div> 
+<div align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=0366D6&center=false&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Laravel+%2B+React+%2B+Vue+Enthusiast;UI%2FUX+Designer;Code+Craftsman" alt="Typing SVG" /> </div> 
 <p align="left"> 
 	<a href="https://jsonfakery.com">
 		<img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" />
