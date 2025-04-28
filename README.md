@@ -42,7 +42,7 @@ Building elegant web solutions with a passion for clean code and beautiful UI. I
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=glennraya&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=glennraya&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" height="170" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glennraya&layout=compact&theme=tokyonight" alt="Most Used Languages" height="170" /> </div>
 
 ----------
