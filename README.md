@@ -40,11 +40,6 @@ Building elegant web solutions with a passion for clean code and beautiful UI. I
 
 ▶️ [More Videos...](https://youtube.com/@glennraya)
 
-## 📊 GitHub Stats
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=glennraya&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" height="170" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glennraya&layout=compact&theme=tokyonight" alt="Most Used Languages" height="170" /> </div>
-
 ----------
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=yourusername&color=0e75b6&style=flat-square" alt="Profile Views" /> <p>If you like my work, maybe consider buying me a coffee!</p> <a href="https://www.buymeacoffee.com/glennraya"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a> </div>
