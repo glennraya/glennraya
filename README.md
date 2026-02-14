@@ -27,7 +27,7 @@ Building elegant web solutions with a passion for clean code and beautiful UI. I
 
 ## 🛠️ Tech Stack
  <div align="center">
-  <img src="./tech.jpg" alt="Banner" width="100%" />
+  <img src="./tech2.jpg" alt="Banner" width="100%" />
 </div>
 <div align="center">
 
